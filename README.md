@@ -38,7 +38,7 @@ A powerful Chrome extension that automatically mutes media when you switch tabs 
 4. Click **"Load unpacked"**
 5. Select the extension folder
 
-## 🎮 How to Use
+## How to Use
 
 ### Basic Controls
 
