@@ -16,6 +16,7 @@ A powerful Chrome extension that automatically mutes media when you switch tabs 
 - **Zero Tracking** – No analytics, no telemetry, complete privacy
 
 ##  Screenshots
+![Sample Images](Screenshots)
 
 | Settings Popup |
 |:---:|
