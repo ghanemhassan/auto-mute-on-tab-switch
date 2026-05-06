@@ -172,7 +172,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/automute-volume-booster](https://github.com/yourusername/automute-volume-booster)
+Project Link: [https://github.com/ghanemhassan/auto-mute-on-tab-switch/blob/main/README.md](https://github.com/ghanemhassan/auto-mute-on-tab-switch/blob/main/README.md)
 
 ---
 
