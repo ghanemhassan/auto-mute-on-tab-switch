@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AutoMute + Volume Booster</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>AutoMute + Volume Booster</h1>
+      <p class="tagline">Pro Tab Control • Up to 600%</p>
+    </header>
+
+    <section class="toggle">
+      <div class="label">AutoMute on Tab Switch</div>
+      <label class="switch">
+        <input type="checkbox" id="enable" checked>
+        <span class="slider"></span>
+      </label>
+    </section>
+
+    <section class="volume">
+      <div class="label">
+        <span>Volume Boost</span>
+        <span id="volumeDisplay">100%</span>
+      </div>
+      <input type="range" id="slider" min="0" max="600" value="100" step="5">
+      <div class="site" id="domain">youtube.com</div>
+    </section>
+
+    <footer>
+      Per-site memory • Zero tracking • Made with love
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
